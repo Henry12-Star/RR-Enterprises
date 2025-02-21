@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RR Enterprises</title>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; margin: 0; padding: 0; }
+        header { background: #007bff; color: white; padding: 15px; font-size: 24px; }
+        section { padding: 20px; }
+        footer { background: #333; color: white; padding: 10px; position: fixed; bottom: 0; width: 100%; }
+        .btn { padding: 10px 20px; background: #007bff; color: white; text-decoration: none; border-radius: 5px; }
+    </style>
+</head>
+<body>
+    <header>RR Enterprises</header>
+    
+    <section>
+        <h2>Welcome to RR Enterprises</h2>
+        <p>Your trusted store for quality groceries and essentials.</p>
+        <a href="#contact" class="btn">Contact Us</a>
+    </section>
+    
+    <section>
+        <h2>Our Products</h2>
+        <p>We provide fresh groceries, household essentials, and more at the best prices.</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: support@rrenterprises.com</p>
+        <p>Phone: +91 9876543210</p>
+        <p>Location: XYZ Market, City, India</p>
+    </section>
+    
+    <footer>
+        &copy; 2025 RR Enterprises. All rights reserved.
+    </footer>
+</body>
+</html>
